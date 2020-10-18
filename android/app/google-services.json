@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "636748976632",
+    "firebase_url": "https://student-attendance-syste-bdc08.firebaseio.com",
+    "project_id": "student-attendance-syste-bdc08",
+    "storage_bucket": "student-attendance-syste-bdc08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636748976632:android:269fd4b80bc84a418ac60d",
+        "android_client_info": {
+          "package_name": "com.example.easyqrstdapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636748976632-jnhorvsive8mcuvb3ift0vqermfeo0do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm2AArNVxVK22C2dAw6eDFlnanE025mAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636748976632-jnhorvsive8mcuvb3ift0vqermfeo0do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
